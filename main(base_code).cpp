@@ -1,3 +1,4 @@
+//Craig testing git
 
 #pragma comment(lib, "GLFW")
 #pragma comment(lib, "OpenGL32")
