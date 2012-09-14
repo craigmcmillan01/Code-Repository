@@ -1,4 +1,9 @@
+<<<<<<< HEAD
+//Craig testing git, last name branch is this on git hub?
+
+=======
 //Master branch, git testing
+>>>>>>> master
 #pragma comment(lib, "GLFW")
 #pragma comment(lib, "OpenGL32")
 
