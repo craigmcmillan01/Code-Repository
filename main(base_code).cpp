@@ -1,4 +1,4 @@
-
+//Master branch, git testing
 #pragma comment(lib, "GLFW")
 #pragma comment(lib, "OpenGL32")
 
