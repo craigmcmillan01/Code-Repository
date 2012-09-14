@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 //Craig testing git, last name branch is this on git hub?
 
+//this is in the git hub folder. is this the clone?
+
 =======
 //Master branch, git testing
 >>>>>>> master
