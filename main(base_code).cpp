@@ -1,4 +1,4 @@
-//Craig testing git, last name branch
+//Craig testing git, last name branch is this on git hub?
 
 #pragma comment(lib, "GLFW")
 #pragma comment(lib, "OpenGL32")
